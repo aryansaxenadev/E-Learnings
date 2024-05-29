@@ -1,4 +1,4 @@
-**Live Demo**>  https://tech-elearners.netlify.app/
+**Live Website Link**>  https://tech-elearners.netlify.app/
 
 E-Learning Platform
 Overview
